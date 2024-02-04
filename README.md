@@ -46,7 +46,7 @@
 Edit the required value in `config.json`.
 ```json
 {
-    "ownerBot": "62812xxxxxxxx@c.us",
+    "DenzZbotzZ": "60177254044@c.us",
     "prefix": ".",
     "nao": "SAUCENAO-API-KEY",
     "openAiKey": "OPENAI-API-KEY",
@@ -55,10 +55,10 @@ Edit the required value in `config.json`.
 }
 ```
 
-`ownerBot`: your WhatsApp number.   
+`ownerBot`:60177254044.   
 `prefix`: bot's prefix.   
-`nao`: SauceNAO API key. You can get it [here](https://saucenao.com/user.php) by creating an account.   
-`openAiKey`: OpenAI API key. You can get it [here](https://platform.openai.com/account/api-keys) by creating an account.   
+`nao`: b718f3bb436e872c010e762fab43f44bfaac149c.  
+`openAiKey`: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.
 `authorStick`: name of the author sticker pack.   
 `packStick`: name of the sticker pack.   
 
